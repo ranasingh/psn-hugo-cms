@@ -1,11 +1,11 @@
 ---
-title: Our Coffee
+title: PSN
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: Who are we
+heading: asdasd
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  Kasddsis the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
