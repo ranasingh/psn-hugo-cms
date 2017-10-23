@@ -1,5 +1,5 @@
 ---
-title: PSN
+title: aran
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
